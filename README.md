@@ -24,7 +24,7 @@ Simple Age and Gender Detector using Machine Learning
 
 
 ### Sample Output 2:
-![Sample Output 2]()
+![Sample Output 2](C:\Users\Anup0\OneDrive\Pictures\Sample_Output_2.png)
 
 ### Sample Output 3:
 ![Sample Output 3]()
