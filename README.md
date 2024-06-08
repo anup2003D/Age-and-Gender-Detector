@@ -20,14 +20,14 @@ Simple Age and Gender Detector using Machine Learning
 
 ## SAmple Output:
 ### Sample Output 1:
-![Sample Output 1](https://github.com/anup2003D/Age-and-Gender-Detector/assets/122201862/ad905e44-e475-4f80-bacd-a974c37edb9e)
+![Sample Output 1](https://github.com/anup2003D/Age-and-Gender-Detector/blob/main/Sample_Output_1.png)
 
 
 ### Sample Output 2:
-![Sample Output 2](C:\Users\Anup0\OneDrive\Pictures\Sample_Output_2.png)
+![Sample Output 2](https://github.com/anup2003D/Age-and-Gender-Detector/blob/main/Sample_Output_2.png)
 
 ### Sample Output 3:
-![Sample Output 3]()
+![Sample Output 3](https://github.com/anup2003D/Age-and-Gender-Detector/blob/main/Sample_Output_3.png)
 
 ### Sample Output 4:
-![Sample Output 4]()
+![Sample Output 4](https://github.com/anup2003D/Age-and-Gender-Detector/blob/main/Sample_Output_4.png)
